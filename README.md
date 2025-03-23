@@ -38,7 +38,7 @@ Este repositório contém implementações dos principais Design Patterns em C#,
 
 - [x] Chain of Responsibility
 - [x] Command
-- [ ] Iterator
+- [x] Iterator
 - [x] Mediator
 - [x] Observer
 - [x] State
